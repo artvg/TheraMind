@@ -23,6 +23,4 @@ This project follows a simple, structured NLP workflow:
 - James Furdui
 
 # Research Paper
-A full research paper for TheraMind is currently being written. Once complete, it will be uploaded to a folder named "ResearchPaper" in this repository.
-
-Stay tuned!!!s
+A full research paper for TheraMind can be found inside "Documents" folder, Thank you.
